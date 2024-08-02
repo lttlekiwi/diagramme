@@ -246,6 +246,9 @@
         <mxCell id="UpJQDBjiTnYH3TPRTOtN-68" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="100" y="58" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UpJQDBjiTnYH3TPRTOtN-70" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="158" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
