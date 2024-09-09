@@ -8,10 +8,10 @@
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BDtkVoIlV69DwLZXu3MO-1" value="RDV" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="680" width="140" height="220" as="geometry" />
+          <mxGeometry x="877" y="630" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="BDtkVoIlV69DwLZXu3MO-2" value="&lt;div&gt;id_rdv&lt;/div&gt;&lt;div&gt;ModeContact&lt;/div&gt;&lt;div&gt;Rappel&lt;/div&gt;&lt;div&gt;RappelActif&lt;/div&gt;&lt;div&gt;Site&lt;/div&gt;&lt;div&gt;DateRV&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BDtkVoIlV69DwLZXu3MO-1">
-          <mxGeometry y="30" width="140" height="190" as="geometry" />
+        <mxCell id="BDtkVoIlV69DwLZXu3MO-2" value="&lt;div&gt;id_rdv&lt;/div&gt;&lt;div&gt;ModeContact&lt;/div&gt;&lt;div&gt;RappelDate&lt;/div&gt;&lt;div&gt;RappelActif&lt;/div&gt;&lt;div&gt;Site&lt;/div&gt;&lt;div&gt;DateRV&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BDtkVoIlV69DwLZXu3MO-1">
+          <mxGeometry y="30" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BDtkVoIlV69DwLZXu3MO-5" value="SousProblématique" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="800" width="140" height="60" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BDtkVoIlV69DwLZXu3MO-11" value="Bénéficiaire" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="560" width="140" height="60" as="geometry" />
+          <mxGeometry x="1170" y="490" width="140" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="BDtkVoIlV69DwLZXu3MO-12" value="id_bénéficiaire" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BDtkVoIlV69DwLZXu3MO-11">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="BDtkVoIlV69DwLZXu3MO-12" value="id_bénéficiaire&lt;div&gt;Prenom&lt;/div&gt;&lt;div&gt;Nom_complet&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;telephone&lt;/div&gt;&lt;div&gt;Suivi&lt;/div&gt;&lt;div&gt;HistoriqueAnnee&lt;/div&gt;&lt;div&gt;NomPrenom&lt;/div&gt;&lt;div&gt;Sexe&lt;/div&gt;&lt;div&gt;RQTH&lt;/div&gt;&lt;div&gt;SecteurActivite&lt;/div&gt;&lt;div&gt;Profession&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BDtkVoIlV69DwLZXu3MO-11">
+          <mxGeometry y="30" width="140" height="200" as="geometry" />
         </mxCell>
         <mxCell id="BDtkVoIlV69DwLZXu3MO-13" value="RapportActivité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="560" width="140" height="60" as="geometry" />
