@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="2637.5" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3261.5" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -667,13 +667,13 @@
           <mxGeometry y="30" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_u4bRNjzvvELaKdyfeoB-6" value="BeneficiaireRDV" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="625" width="140" height="110" as="geometry" />
+          <mxGeometry x="-40" y="620" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_u4bRNjzvvELaKdyfeoB-7" value="id_beneficiaireRDV&lt;div&gt;Annee&lt;/div&gt;&lt;div&gt;NbrB&lt;/div&gt;&lt;div&gt;NbrRDV&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_u4bRNjzvvELaKdyfeoB-6">
           <mxGeometry y="30" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_u4bRNjzvvELaKdyfeoB-8" value="ProblematiqueStat" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="780" width="140" height="110" as="geometry" />
+          <mxGeometry x="-40" y="760" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_u4bRNjzvvELaKdyfeoB-9" value="id_problematiqueStat&lt;div&gt;Titre&lt;/div&gt;&lt;div&gt;Nombre&lt;/div&gt;&lt;div&gt;Annee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_u4bRNjzvvELaKdyfeoB-8">
           <mxGeometry y="30" width="140" height="80" as="geometry" />
